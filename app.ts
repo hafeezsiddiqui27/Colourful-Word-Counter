@@ -13,7 +13,7 @@ console.log(
   console.log(
     chalk.bold.blue(
       `<<<=========>>>  ${chalk.blueBright.bold(
-        "Welcome To 'Hafeez Siddiqui' - CLI TODO-LIST"
+        "Welcome To 'Hafeez Siddiqui' - Word Counter"
       )}  <<<=========>>>`
     )
   );
