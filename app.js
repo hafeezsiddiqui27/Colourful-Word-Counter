@@ -4,7 +4,7 @@ import inquirer from "inquirer";
 import chalk from "chalk";
 //diplaying a colourful welcome messsage
 console.log(chalk.bold.yellow(`\n  \t\t <<<================================================>>>`));
-console.log(chalk.bold.blue(`<<<=========>>>  ${chalk.blueBright.bold("Welcome To 'Hafeez Siddiqui' - CLI TODO-LIST")}  <<<=========>>>`));
+console.log(chalk.bold.blue(`<<<=========>>>  ${chalk.blueBright.bold("Welcome To 'Hafeez Siddiqui' - Word Counter")}  <<<=========>>>`));
 console.log(chalk.bold.yellow(`\t\t <<<===============================================>>>\n`));
 //prompt the user to enter
 let answer = await inquirer.prompt([
